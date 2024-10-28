@@ -1,0 +1,7 @@
+{
+  "Arial": ["regular", "italic", "bold", "bold italic"],
+  "Georgia": ["regular", "italic", "bold", "bold italic"],
+  "Helvetica": ["regular", "italic", "bold", "bold italic"],
+  "Verdana": ["regular", "italic", "bold", "bold italic"],
+  "Times New Roman": ["regular", "italic", "bold", "bold italic"]
+}

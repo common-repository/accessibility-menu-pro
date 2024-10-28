@@ -1,0 +1,31 @@
+/* admin-style.css */
+
+#bame1-nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#bame1-nav li {
+  margin-bottom: 25px;
+}
+
+.bame1-active {
+  font-weight: bold;
+}
+
+.wrap h2 {
+  margin-top: 20px;
+}
+
+.wrap h4 {
+  margin-bottom: 10px;
+}
+
+.form-table th {
+  padding: 10px 10px 10px 0;
+  text-align: left;
+}
+
+.form-table td {
+  padding: 10px 0;
+}
